@@ -1,0 +1,29 @@
+.title{
+    padding: 8px;
+    margin: 8px;
+
+    font-size: 16px;
+    background-color: aqua;
+}
+.content{
+    margin:8px;
+    background-color: aqua;
+    padding:16px 8px;
+}
+.button-container{
+text-align: center;
+padding: 8px;
+background-color: aqua;
+margin: 8px;
+
+
+}
+button {
+    display: block;
+   margin: auto;
+    padding: 8px 24px;
+  }
+.card{
+    border: 1px groove white;
+}
+
